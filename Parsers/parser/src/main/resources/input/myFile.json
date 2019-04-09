@@ -1,0 +1,16 @@
+{
+  "emp_id": 1017,
+  "emp_name": "Sathya",
+  "emp_designation": "Manager",
+  "department": "Java",
+  "salary": 30000,
+  "direct_reports": [
+    "Reportee1",
+    "Reportee2",
+    "Reportee3"
+  ],
+  "address": {
+    "street":"OMR",
+    "city":"Chennai"
+  }
+}
